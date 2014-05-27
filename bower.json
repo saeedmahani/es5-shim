@@ -1,10 +1,10 @@
 {
-    "name": "es5-shim",
+    "name": "es5-sham",
     "version": "3.4.0",
     "main": "es5-sham.js",
     "repository": {
         "type": "git",
-        "url": "git://github.com/es-shims/es5-shim"
+        "url": "git://github.com/saeedmahani/es5-shim"
     },
     "homepage": "https://github.com/es-shims/es5-shim",
     "authors": [
